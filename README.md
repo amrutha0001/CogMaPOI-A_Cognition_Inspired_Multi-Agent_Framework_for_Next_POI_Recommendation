@@ -170,27 +170,28 @@ Memory and reflection make **complementary, non-redundant contributions**: memor
 
 ---
 
+<!--
 ## Citation
 
 If you use CogMaPOI in your research, please cite:
 
 ```bibtex
 @inproceedings{cogmapoi2025,
-  title     = {CogMaPOI: A Cognition-Inspired Multi-Agent Framework for Continual Next POI Recommendation with Episodic Memory and Metacognitive Reflection},
-  author    = {Anonymous Author(s)},
-  booktitle = {Anonymous Proceedings},
+  title     = {...},
+  author    = {...},
   year      = {2025}
 }
-```
 
 ---
+-->
 
 ## Acknowledgements
 
 Baselines and dataset splits follow the unified evaluation protocol of [CoMaPOI (SIGIR 2025)](https://doi.org/10.1145/3726302.3729930). We thank the authors for making their evaluation setup publicly available.
 
 ---
-
+<!--
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+-->
