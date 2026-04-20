@@ -55,7 +55,7 @@ Five agents, strictly causal — episode *e* information cannot influence episod
 ```
 CogMaPOI/
 ├── cogmapoi-complete-pipeline.ipynb    # Full end-to-end pipeline
-├── __Architecture_Diagram.png          # Architecture diagram
+├── __Architecture_D\iagram.png          # Architecture diagram
 ├── README.md                           # This file
 ├── Ablation studies codes/
 │   ├── cogmapoi-without-memory-agent.ipynb
