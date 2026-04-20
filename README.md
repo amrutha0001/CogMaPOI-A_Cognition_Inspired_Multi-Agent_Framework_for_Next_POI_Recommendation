@@ -41,7 +41,7 @@ The large MRR gains (versus more modest HR gains) reflect the framework's core s
 ## Architecture
 
 <p align="center">
-  <img src="Architecture_Diagram.png" alt="CogMaPOI Architecture" width="750"/>
+  <img src="Architecture_diagram.png" alt="CogMaPOI Architecture" width="750"/>
   <br>
   <em>Figure 1: CogMaPOI five-agent pipeline with continual episodic inference and cognitive state updates.</em>
 </p>
@@ -55,7 +55,7 @@ Five agents, strictly causal — episode *e* information cannot influence episod
 ```
 CogMaPOI/
 ├── cogmapoi-complete-pipeline.ipynb    # Full end-to-end pipeline
-├── __Architecture_D\iagram.png          # Architecture diagram
+├── __Architecture_diagram.png          # Architecture diagram
 ├── README.md                           # This file
 ├── Ablation studies codes/
 │   ├── cogmapoi-without-memory-agent.ipynb
